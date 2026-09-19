@@ -7,7 +7,10 @@ Mechatronics student at THWS based in Schweinfurt, Bavaria, Germany — passiona
 🎯 Actively looking for internship opportunities where I can apply and grow these skills.
 
 🌱 Currently Learning / Working On
--Java fundamentals — OOP concepts, constructors, loops, and conditionals.
--Python scripting for hardware control using PyVISA.
--PLC programming and control system logic design.
--Lab-based data acquisition and analysis workflows.
+Java fundamentals — OOP concepts, constructors, loops, and conditionals.
+
+Python scripting for hardware control using PyVISA.
+
+PLC programming and control system logic design.
+
+Lab-based data acquisition and analysis workflows.
